@@ -1,4 +1,4 @@
-FROM openjdk
+FROM openjdk:8-jdk
 
 EXPOSE 8081
 
